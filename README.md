@@ -37,6 +37,7 @@ A **curated** list of awesome tools, prompts and other cool nuggets for the amaz
 - [Segment](https://github.com/fishery/segment) - Powerline prompt builder.
 - [Spin](https://github.com/fishery/spin) - Background job spinner.
 - [Z](https://github.com/fishery/z) - Pure-fish z directory jumping.
+- [fzf] (https://github.com/junegunn/fzf) - A command-line fuzzy finder written in Go for awesome <kbd>Ctrl</kbd>+<kbd>r</kbd> reverse search lookup
 
 ## Contributing
 
